@@ -10,7 +10,7 @@
 #define QHTTPCLIENT_HPP
 
 // configured by src.pro
-#if defined(QHTTP_HAS_CLIENT)
+//#if defined(QHTTP_HAS_CLIENT)
 
 ///////////////////////////////////////////////////////////////////////////////
 #include "qhttpfwd.hpp"
@@ -179,4 +179,4 @@ protected:
 } // namespace qhttp
 ///////////////////////////////////////////////////////////////////////////////
 #endif // QHTTP_HAS_CLIENT
-#endif // define QHTTPCLIENT_HPP
+//#endif // define QHTTPCLIENT_HPP

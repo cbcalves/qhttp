@@ -10,7 +10,7 @@
 #define QHTTPCLIENT_REQUEST_HPP
 
 // configured by src.pro
-#if defined(QHTTP_HAS_CLIENT)
+//#if defined(QHTTP_HAS_CLIENT)
 
 ///////////////////////////////////////////////////////////////////////////////
 #include "qhttpabstracts.hpp"
@@ -63,5 +63,5 @@ protected:
 } // namespace client
 } // namespace qhttp
 ///////////////////////////////////////////////////////////////////////////////
-#endif // QHTTP_HAS_CLIENT
+//#endif // QHTTP_HAS_CLIENT
 #endif // define QHTTPCLIENT_REQUEST_HPP
