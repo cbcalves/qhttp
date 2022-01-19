@@ -54,6 +54,9 @@ Makefile*
 *.sln
 *.rc
 
+#vscode
+/.vscode
+
 # node.js external modules
 node_modules
 
